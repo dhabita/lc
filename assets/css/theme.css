@@ -384,6 +384,32 @@ img {
     box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 6px -1px;
 }
 
+
+/*
+.site-header-navbar {
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+}
+
+.container-1 {
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+    width: 30%;
+    padding-left: 5%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+}
+*/
+
 .sticky-wrapper #siteHeaderNavbar {}
 
 
@@ -410,7 +436,6 @@ Banner Content
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    height: 80%;
 }
 
 .banner-content {
@@ -547,7 +572,7 @@ Banner Content
 }
 
 .single-feature {
-    padding: 40px;
+    padding: 30px;
     -webkit-transition: all .4s ease 0s;
     -o-transition: all .4s ease 0s;
     transition: all .4s ease 0s;
